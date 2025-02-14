@@ -3,13 +3,18 @@
 ### 👋 Bem vindo ao meu perfil,e futuro desenvolvedor. 🎯
 
 ### 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Uninove (2024).
-<p align="right" style="float:right; margin-left: 20px;">
-  <img height="120px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhtZDMyejl5MTRmODh6c2pkbTkyOWNtOTllNmdqMmRyc3lybzV3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Gif animado de desenvolvedor">
-</p>
+
+
 
 ### 💻 Aprendendo e explorando HTML, CSS, Java (estudando 😅) e SQL.
 ### 🚀 Sonhando e trilhando o caminho para me tornar um dev de verdade!
 ### 📌 Futuro desenvolvedor 🎯
+##
+
+<p style="align:right; float:right; margin-left: 20px;">
+  <img height="120px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhtZDMyejl5MTRmODh6c2pkbTkyOWNtOTllNmdqMmRyc3lybzV3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Gif animado de desenvolvedor">
+</p>
+
 ## 
 ### 👋 Welcome to my profile, and future developer. 🎯  
 ### 🎓 Graduated in Systems Analysis and Development from Uninove (2024).  
