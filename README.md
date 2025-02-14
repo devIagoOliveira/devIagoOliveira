@@ -55,6 +55,6 @@
 </div>  
 
 ## Contato
-<a href=https://www.linkedin.com/in/deviagooliveira><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-<a href="mailto:deviagooliveira@gmail.com"><img height="40px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/>
+<a href=https://www.linkedin.com/in/deviagooliveira target="_blank"><img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+<a href="mailto:deviagooliveira@gmail.com" target="_blank"><img height="40px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/>
 
