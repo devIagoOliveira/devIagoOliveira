@@ -1,5 +1,12 @@
 # Iago Oliveira 👽💻 
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devIagoOliveira/devIagoOliveira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devIagoOliveira/devIagoOliveira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devIagoOliveira/devIagoOliveira/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ### 👋 Bem vindo ao meu perfil!
 
 ### 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Uninove (2024).
