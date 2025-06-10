@@ -12,7 +12,7 @@
 ### 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Uninove (2024).
 
 
-### 💻 Aprendendo e explorando HTML, CSS, Java (estudando 😅) e SQL.
+### 💻 Aprendendo e explorando Java.
 ### 🚀 Sonhando e trilhando o caminho para me tornar um dev de verdade!
 ### 📌 Futuro desenvolvedor 🎯
 ##
@@ -30,7 +30,7 @@
 ##
 ### 👋 Welcome to my profile! 
 ### 🎓 Graduated in Systems Analysis and Development from Uninove (2024).  
-### 💻 Learning and exploring HTML, CSS, Java (still studying 😅), and SQL.  
+### 💻 Learning and exploring Java.  
 ### 🚀 Dreaming and paving the way to becoming a real developer!  
 ### 📌 Future developer 🎯  
 
